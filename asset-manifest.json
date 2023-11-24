@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/twewy-message-generator/static/css/main.337a0b91.css",
-    "main.js": "/twewy-message-generator/static/js/main.d8c8882b.js",
+    "main.css": "/twewy-message-generator/static/css/main.22499f2e.css",
+    "main.js": "/twewy-message-generator/static/js/main.d2105e38.js",
     "static/js/787.97b7ab5e.chunk.js": "/twewy-message-generator/static/js/787.97b7ab5e.chunk.js",
     "static/media/FOT-NewCezanne Pro M.otf": "/twewy-message-generator/static/media/FOT-NewCezanne Pro M.15d4a3fe54887b9f1e86.otf",
     "static/media/Event_BG_no006_01.png": "/twewy-message-generator/static/media/Event_BG_no006_01.6f88f1d87f0b2a2bd4d7.png",
@@ -307,14 +307,16 @@
     "static/media/pin prof2.png": "/twewy-message-generator/static/media/pin prof2.bb8a1f5d583ad2be9fde.png",
     "static/media/pin prof1.png": "/twewy-message-generator/static/media/pin prof1.3f81f20293a6fe1619e5.png",
     "static/media/pin prof3.png": "/twewy-message-generator/static/media/pin prof3.692f97efb3e0d40cf602.png",
+    "static/media/fat stacks.png": "/twewy-message-generator/static/media/fat stacks.ab774258ebdeb635ed28.png",
+    "static/media/kofi.png": "/twewy-message-generator/static/media/kofi.4a1b9ecc63ce3a39e631.png",
     "static/media/default.png": "/twewy-message-generator/static/media/default.96697058f789672da6dc.png",
     "index.html": "/twewy-message-generator/index.html",
-    "main.337a0b91.css.map": "/twewy-message-generator/static/css/main.337a0b91.css.map",
-    "main.d8c8882b.js.map": "/twewy-message-generator/static/js/main.d8c8882b.js.map",
+    "main.22499f2e.css.map": "/twewy-message-generator/static/css/main.22499f2e.css.map",
+    "main.d2105e38.js.map": "/twewy-message-generator/static/js/main.d2105e38.js.map",
     "787.97b7ab5e.chunk.js.map": "/twewy-message-generator/static/js/787.97b7ab5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.337a0b91.css",
-    "static/js/main.d8c8882b.js"
+    "static/css/main.22499f2e.css",
+    "static/js/main.d2105e38.js"
   ]
 }
