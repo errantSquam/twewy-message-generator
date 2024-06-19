@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/twewy-message-generator/static/css/main.3718369b.css",
-    "main.js": "/twewy-message-generator/static/js/main.929cb75e.js",
+    "main.css": "/twewy-message-generator/static/css/main.e32fb1d0.css",
+    "main.js": "/twewy-message-generator/static/js/main.609e1e62.js",
     "static/js/787.97b7ab5e.chunk.js": "/twewy-message-generator/static/js/787.97b7ab5e.chunk.js",
     "static/media/FOT-NewCezanne Pro M.otf": "/twewy-message-generator/static/media/FOT-NewCezanne Pro M.15d4a3fe54887b9f1e86.otf",
     "static/media/erian1.png": "/twewy-message-generator/static/media/erian1.e1161aaa37ed4d24aefd.png",
@@ -392,12 +392,12 @@
     "static/media/default.png": "/twewy-message-generator/static/media/default.96697058f789672da6dc.png",
     "static/media/loud.png": "/twewy-message-generator/static/media/loud.708931279da56072d197.png",
     "index.html": "/twewy-message-generator/index.html",
-    "main.3718369b.css.map": "/twewy-message-generator/static/css/main.3718369b.css.map",
-    "main.929cb75e.js.map": "/twewy-message-generator/static/js/main.929cb75e.js.map",
+    "main.e32fb1d0.css.map": "/twewy-message-generator/static/css/main.e32fb1d0.css.map",
+    "main.609e1e62.js.map": "/twewy-message-generator/static/js/main.609e1e62.js.map",
     "787.97b7ab5e.chunk.js.map": "/twewy-message-generator/static/js/787.97b7ab5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3718369b.css",
-    "static/js/main.929cb75e.js"
+    "static/css/main.e32fb1d0.css",
+    "static/js/main.609e1e62.js"
   ]
 }
