@@ -741,13 +741,16 @@ function App() {
                 <b> Message Generator</b>
                 <div className="text-xs flex flex-row items-center" >
                   <p>by&nbsp;
-                    <a href="https://ko-fi.com/elteh" target="_blank"
+                    <a href="https://ko-fi.com/errantsquam" target="_blank"
                       onClick={() => (setModalOpen(true))}
-                    ><b className="text-yellow-100">eLTeh</b>&nbsp;
+                    ><b className="text-yellow-100">Errant</b>&nbsp;
 
                       <img src={kofi} width="15" height="15" style={{ display: "inline" }} /></a>
                     <i className="text-slate-500"></i></p> </div>
               </div>
+            </div>
+            <div className = "flex text-center items-center my-2 bg-slate-700">
+              &nbsp;Sorry for the domain change! I had to update my Github username. Please consider donating to support :)&nbsp;
             </div>
             <div className="flex flex-row space-x-3" style={{ height: height }} >
 
