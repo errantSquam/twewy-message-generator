@@ -71,7 +71,7 @@ const charaData = {
         "right": "-mr-0"
       }
     },
-    expressions: 13,
+    expressions: 14,
     offsetOverride: {
       1: {
         "front": {
